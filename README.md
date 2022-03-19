@@ -2,25 +2,23 @@
 
 # 1. Programming Basic
 
-#### 1) Java
+<details markdown="1">
 
-- [JDK](./java/jdk.md)
-        
-- Tools
+#### 1) Java
 
 #### 2) Git
 
 #### 3) Cooperation
 
-- [Code Review](https://woowacourse.github.io/javable/)
+- Code Review
 
 - Pair Programming
 
 #### 4) Principle
 
-- [Clean Code](https://github.com/Yooii-Studios/Clean-Code)
+- Clean Code
 
-- [Refactoring](https://refactoring.guru/refactoring/smells)
+- Refactoring
 
 - Object-Oriented
     
@@ -76,3 +74,5 @@
 - [베디의 OCP와 전략패턴](https://www.youtube.com/watch?v=90ZDvHl8ROE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=56&t=0s)
 - [그래의 전략패턴](https://www.youtube.com/watch?v=zGJzEBOELoU&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=8&t=0s)
 - [앨런의 상속보다는 Composition](https://www.youtube.com/watch?v=YJ4JJsGy8rY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=7&t=0s)
+
+</details>
