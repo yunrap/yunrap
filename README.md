@@ -1,4 +1,4 @@
-# yunrap
+# STEP
 
 ## 1. Programming Basic 
 
@@ -139,3 +139,209 @@
 
 </details>
 
+## 3. Project
+
+<details markdown="1">
+
+#### 1) Software Development Process
+
+- Agile
+
+- Scrum
+
+- Lean
+
+- Kanban
+
+- Schedule Estimation
+
+- CI / CD
+
+#### 2) Common Topics
+
+- Authentication
+
+- Authorization
+
+- Deployment
+
+- RESTful APIs
+
+- Documentation
+
+- [Log](common_topics/logback.md)
+
+#### 3) Web Architecture Components
+
+- Web Server
+
+- [Proxy](./web_architecture_compoents/proxy.md)
+    
+- Load Balancer
+
+- CDN
+
+- Database
+
+---
+
+#### 📖 추천 도서
+
+##### 1) [리눅스 커맨드라인 완벽 입문서](http://www.yes24.com/Product/Goods/8208026?scode=032&OzSrank=1)
+- 쉘 스크립트에 대한 기본적인 학습은 이 책의 PART4를 참고한다.
+- 쉘 스크립트 작성 능력을 키우려면 책을 통해서는 한계가 있기 때문에 작은 것이라도 자기 주변에서 발생하는 불편한 점을 쉘 스크립트를 통해 개선해 나가는 경험을 하는 것이 가장 좋은 학습 방법이다.
+
+##### 2) [소프트웨어 장인](http://www.yes24.com/Product/Goods/20461940?scode=032&OzSrank=2)
+- 소프트웨어 개발자가 추구해야 할 가치와 태도에 대해 다루고 있다. 이 책을 통해 시니어 개발자, 리더의 모습을 그리면서 내가 성장해 나가야할 방향에 대한 힌트를 얻을 수 있다.
+
+##### 3) [익스트림 프로그래밍](http://www.yes24.com/Product/Goods/2126201?Acode=101)
+- 애자일 프로세스 중 대표 프로세스로 익스트림 프로그래밍(XP)을 들 수 있다. 애자일 프로세스의 기본 사상과 철학에 대해 잘 이해할 수 있다. 개발 프로세스 뿐 아니라 자신의 습관을 바꾸는데도 많은 도움을 받을 수 있다.
+
+##### 4) [스크럼](http://www.yes24.com/Product/Goods/3082313?scode=032&OzSrank=3)
+- 애자일 프로세스 중 적용하기도 쉬우며, 많은 제약을 두지 않은 프로세스. 현업에서 많이 적용하고 있는 애자일 프로세스 중 하나
+
+##### 5) [린 소프트웨어 개발](http://www.yes24.com/Product/Goods/2665143?Acode=101)
+- 개발 프로세스 관련한 고민을 할 때 가장 많은 도움을 받았던 책. 현재 절판되었지만 중고서적이라도 구해 읽어봤으면 하는 
+
+##### 6) [린 스타트업](http://www.yes24.com/Product/Goods/7921251?Acode=101)
+- 불확실한 창업 환경에서 지속적인 혁신을 할 수 있는 방법에 대해 다룬다. 스타트업 시작하는 사람이라면 반드시 읽어봐야 할 책
+
+##### 7) [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?scode=032&OzSrank=2)
+
+
+
+---
+
+#### 🎥 테코톸
+
+- [닉과 러너덕의 점심봇](https://www.youtube.com/watch?v=NfJjaGjVceo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=57&t=0s)
+- [슬로스와 이바의 우리는 왜 실패했는가](https://www.youtube.com/watch?v=wE40LuEMxx0&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=52&t=0s)
+- [안돌의 git branches](https://www.youtube.com/watch?v=MIGliPrUMGE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=47&t=0s)
+- [희봉의 웹서버 vs WAS](https://www.youtube.com/watch?v=NyhbNtOq0Bc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=42&t=0s)
+- [미스터코의 Apahce MPM vs Nginx vs Node.js](https://www.youtube.com/watch?v=QeBqwwbsBbM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=26&t=0s)
+- [이지의 RESTful](https://www.youtube.com/watch?v=xY7cpMuWh4w&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=46&t=0s)
+- [루피의 인증과 인가](https://www.youtube.com/watch?v=JZgD8aPkHSc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=44&t=0s)
+- [포도당의 scale up vs scale out, SPOF](https://www.youtube.com/watch?v=6wPr2jgdDxM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=22&t=0s)
+- [올레의 JPA와 JDBC](https://www.youtube.com/watch?v=Ppqc3qN75EE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=48&t=0s)
+- [코즈의 JDBC, SQLMAPPER, ORM](https://www.youtube.com/watch?v=mezbxKGu68Y&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=3&t=0s)
+- [에단의 TLS](https://www.youtube.com/watch?v=EPcQqkqqouk&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=30&t=0s)
+- [코나스의 CORS](https://www.youtube.com/watch?v=_sLjXviYivM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=23&t=0s)
+
+
+</details>
+
+## 4. Getting Deeper
+
+<details markdown="1">
+
+#### 1) Spring Framework
+
+- Spring MVC
+
+- Spring DI
+
+- Spring AOP
+
+#### 2) Refactoring Legacy Code
+
+#### 3) Design
+
+- GOF Design Patterns
+
+- DDD
+
+- Clean Architecture
+
+#### 4) Common Topics
+
+- JVM
+
+- Database
+
+- Network
+
+- Caching
+
+- Fault Tolerance
+
+#### 5) More Web Architecture Components
+
+- Docker Container
+
+- WebSocket
+
+- NoSQL
+
+- Elasticsearch
+
+- Kafka
+
+- Redis
+
+- Spring Batch
+
+- Spring Security
+
+---
+
+#### 📖 추천 도서
+
+##### 1) [Head First Servlets & JSP](http://www.yes24.com/Product/Goods/3301415)
+- 서블릿 컨테이너와 서블릿의 관계를 그림을 통해 잘 설명하고 있다. 정말 오래된 서블릿 책이다. 오래된 버전을 다루고 있어 굳이 구매할 것을 추천하지 않는다.
+
+##### 2) [열혈강의 자바 웹 개발 워크북](http://www.yes24.com/Product/Goods/13159413?Acode=101)
+- 자바 웹 개발 기초에서 프레임워크를 사용하는 실무 내용
+
+##### 3) [토비의 스프링](http://www.yes24.com/Product/Goods/7516721?scode=032&OzSrank=1)
+
+##### 4) [HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085?Acode=101)
+- “HTTP 완벽 가이드” 책은 HTTP의 끝판왕 수준이므로 경력을 쌓아가면서 천천히 읽어도 괜찮다. “HTTP 완벽 가이드” 책은 HTTP의 바이블과 같은 책으로 처음부터 끝까지 읽기 쉽지 않다. 가능하면 혼자 읽기 보다는 책 읽기 스터디를 만들어 읽고 토론할 것을 추천한다. 
+
+##### 5) [자바 성능 튜닝 이야기](http://www.yes24.com/Product/Goods/11261731?Acode=101)
+- 필자가 다년간 튜닝하고 다른 개발자들에게 조언하던 중에 반복적으로 제시하던 주제들을 정리하여 엮은 책이다. 아직 성능 개선을 위해 어떤 부분을 학습해야할지 감이 오지 않는다면 도움을 줄 수 있을거라 생각한다. 그리고 면접을 대비하는 데에 있어서도 좋은 주제들을 담고 있다고 생각한다.
+
+##### 6) [네트워킹과 웹 성능 최적화 기법](http://www.yes24.com/Product/Goods/22884121?scode=029)
+- HTTP 완벽가이드가 HTTP 자체에 집중한 교과서와 같다면, 네트워킹과 웹 성능 최적화 기법(일리아 그리고릭, 인사이트(insight, 2015) 은 보다 고성능 네트워킹 설계 및 개발에 초점을 둔 책이다. 네트워크상에서 성능에 대한 주제들을 담고 있어, 지금 당장 모든 것을 학습하지 못하더라도 좋은 영감을 줄거라 생각한다. 
+
+##### 7) [DevOps와 SE를 위한 리눅스 커널 이야기](http://www.yes24.com/Product/Goods/44376723?Acode=101)
+- 필자는 카카오 시스템엔지니어로 실제 운영을 하며 중요하다고 생각하는 시스템 본질적인 주제들을 커널 코드와 함께 설명한다. 저자의 블로그도 흥미로운 주제가 많으니 같이 보는 것도 좋겠다. https://brunch.co.kr/@alden#articles
+
+##### 8) [데이터베이스를 지탱하는 기술](http://www.yes24.com/Product/Goods/7957807?Acode=101)
+- SQL문을 작성하는데 익숙한 사람들에게 다음 단계로 고민해볼 법한 주제들을 제시한다. 데이터 저장소는 각각의 컨셉은 다르지만, 하나를 깊이있게 학습하면 다른 기술을 학습하기도 수월해진다. MySQL에 대해 보다 깊이있는 학습을 원한다면 읽어보길 권장한다.
+
+##### 9) [자바 최적화](http://www.yes24.com/Product/Goods/72161685?scode=032&OzSrank=1)
+- JVM, GC 동작원리 및 로깅, 모니터링에 대해 깊이있는 정보를 전달한다. 그리고 최근의 동시성 라이브러리에 대한 설명도 간단히 다루고 있다. 글로만 학습하기 어려운 주제들을 코드/모니터링 화면 등 예제 그림들이 많이 제시하여 이해를 높여준다.
+
+##### 10) [개발자와 DBA를 위한 Real MySQL](http://www.yes24.com/Product/Goods/6960931?Acode=101)
+
+##### 11) [DDD Start](http://www.yes24.com/Product/Goods/27750871?Acode=101)
+
+##### 12) [IDDD](http://www.yes24.com/Product/Goods/25100510?scode=032&OzSrank=2)
+
+##### 13) [자바 트러블슈팅](http://www.yes24.com/Product/Goods/84937877?Acode=101)
+
+
+---
+
+#### 🎥 테코톸
+
+- [규동의 Servlet vs Spring](https://www.youtube.com/watch?v=cmwmamOQmPc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=16&t=0s)
+- [타미의 Servlet vs Spring](https://www.youtube.com/watch?v=2pBsXI01J6M&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=2&t=0s)
+- [뚱이의 AOP - Advice Target Pointcut](https://www.youtube.com/watch?v=WQR_VQnz7Yg&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=14&t=0s)
+- [미르의 JDK Dynamic Proxy vs CGLIB Proxy](https://www.youtube.com/watch?v=RHxTV7qFV7M&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=15&t=0s)
+- [무민의 JVM Stack & Heap](https://www.youtube.com/watch?v=UzaGOXKVhwU&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=24&t=0s)
+- [던의 JVM GC](https://www.youtube.com/watch?v=vZRmCbl871I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
+- [큰곰의 Cache](https://www.youtube.com/watch?v=c33ojJ7kE7M&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=50&t=0s)
+- [아이크의 HTTP2.0](https://www.youtube.com/watch?v=uhlvXrDpM-Y&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=28&t=0s)
+- [효오의 Latency & Bandwidth](https://www.youtube.com/watch?v=mFBIwEhvZUY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=29&t=0s)
+- [쿠기의 Connection Pool & Keep-alive](https://www.youtube.com/watch?v=MBgEhSUOlXo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=32&t=0s)
+- [마틴의 Sticky Session & Session Clustering](https://www.youtube.com/watch?v=gzKf2BTZToQ&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=13&t=0s)
+- [유니의 Web polling & Web push](https://www.youtube.com/watch?v=v11dxmc5a0I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=25&t=0s)
+- [안돌의 Index](https://www.youtube.com/watch?v=NkZ6r6z2pBg&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=40&t=0s)
+- [버디의 DB Optimizer](https://www.youtube.com/watch?v=dP0MIgyrqlo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=21&t=0s)
+- [에이든의 트랜잭션 메커니즘](https://www.youtube.com/watch?v=ImvYNlF_saE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=17&t=0s)
+- [올라프의 Clustered vs Non-clustered index](https://www.youtube.com/watch?v=js4y5VDknfA&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=19&t=0s)
+- [히브리의 Sharding, Clustering, Replication](https://www.youtube.com/watch?v=y42TXZKFfqQ&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=18&t=0s)
+- [로비의 SQL Injection](https://www.youtube.com/watch?v=qzas_-u4Nxk&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=20&t=0s)
+
+</details>
